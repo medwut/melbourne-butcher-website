@@ -8,7 +8,7 @@
   Look at some of the Products down below now !
 </p>
 <p> 
-  Our Story 
+  Our Story.
   Our story begins all the way back in 1975 When Owners Margret and Greg opened the melbourne butcher shop It was a first of its kind with brand new cooling equipments
 </p>
 </main>
@@ -50,15 +50,3 @@ p{
 
 
 
-// importpopupitem
-
-
-// export default {
-//     setup() {
-//         return {
-//             popupitem
-//         };
-//     },
-//     components: { popupitem }
-// }
-// still working on this btw
