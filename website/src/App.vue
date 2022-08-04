@@ -2,30 +2,31 @@
 <main>
 <header><h1>Welcome to The Melbourne Butcher Shop </h1></header>
 <p> Cart </p>
-<p><button> Open Button</button></p>
-  <Popupitem>
-    My Popup
-  </Popupitem>
+
 <img src="https://images.unsplash.com/photo-1592686092916-672fa9e86866?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="meat photo">
 <p>
-  Look at some of the Products down below
+  Look at some of the Products down below 
+</p>
+<p> 
+  Our Story 
+  Our story begins all the way back in 1975 When Owners Margret and Greg opened the melbourne butcher shop It was a first of its kind with brand new cooling equipments
 </p>
 </main>
 </template>
 
 <script>
-import popup item
+// importpopupitem
 
 
-export default {
-    setup() {
-        return {
-            popup item
-        };
-    },
-    components: { popup item }
-}
-
+// export default {
+//     setup() {
+//         return {
+//             popup item
+//         };
+//     },
+//     components: { popup item }
+// }
+// still working on this btw
 </script>
 
 <style>
