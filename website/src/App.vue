@@ -9,7 +9,7 @@
 </p>
 <p> 
   Our Story.
-  Our story begins all the way back in 1975 When Owners Margret and Greg opened the melbourne butcher shop It was a first of its kind with brand new cooling equipments
+  Our story begins all the way back in 1975 When Owners Margret and Greg opened the melbourne butcher shop It was a first of its kind with brand new cooling equipments.
 </p>
 </main>
 </template>
@@ -22,7 +22,7 @@
 header{
   font-family: 'Times New Roman', Times, serif;
   font-size: larger;
-  color: #f8000000;
+  color: #035f29;
   text-align: center;
   margin-top:20px;
 }
@@ -43,7 +43,7 @@ header {
 
 p{
   font-size: medium;
-  color: red;
+  color: rgb(255, 0, 0);
   margin-top: 10px;
 }
 </style>
