@@ -1,10 +1,10 @@
 <!--  
  <template> 
  
- <div class="popup-item">    
-    <div class="popup-item-inner">
+ <div class="popupitem">    
+    <div class="popupiteminner">
         <slot/>
-        <button class="popup-item-close">    
+        <button class="popupitemclose">    
             Close Popup
         </button>
 
